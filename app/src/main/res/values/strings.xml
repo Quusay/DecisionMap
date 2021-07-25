@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lets Build A PC</string>
+    <string name="pre_Click">Click the button</string>
+    <string name="clicked_Button">Clicked</string>
+    <string name="yesButton">Yes</string>
+    <string name="noButton">No</string>
+    <color name="custom">#9bafad</color>
+
+</resources>

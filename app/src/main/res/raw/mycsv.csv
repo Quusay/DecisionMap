@@ -1,0 +1,42 @@
+0,2,1,Take motherboard out,Take CPU out,You start to build your PC
+1,0,0,Think again,-,You can't place your CPU without a motherboard
+2,4,3,Carpet,Top of motherboard box,You place your motherboard on...
+3,6,5,RAM,CPU,You start with your...
+4,38,38,-,-,You damage your motherboard through static
+5,13,14,The pins,The side avoiding the pins,You take your CPU out of the box. You hold the CPU by holding...
+6,7,8,2 RAM sticks,4 RAM sticks,How many RAM sticks do you have?
+7,9,10,Take a break if you want or if you haven't put CPU in yet,Take CPU Cooler,You place your RAM sticks accordingly. A1 B1 or A2 B2 depending on your preference. You hear them click onto place.
+8,9,5,Take a break,You take CPU,You place all your RAM sticks in all the RAM slots. You hear them click onto place.
+9,10,5,Take CPU Cooler,Take CPU,You take a break. After you finish you...
+10,17,16,All screws are securing the cooler,You have damaged screws,You install your CPU cooler on top of the CPU. You screw everything in.
+11,12,15,Take a break,You continue,You relax. Breathe. You end up pulling the lever back down in place.
+12,15,15,You continue,-,Take a 5 minute breather.
+13,38,38,-,-,You applied too much pressure on the pins. CPU is now damaged
+14,12,11,Yes! It worked,Scared it might break,You pull the lever up so the CPU guard comes off. Install your CPU by lining up the triangle with the triangle on the motherboard. Pull the lever back down in place.
+15,10,6,Choose CPU Cooler,Choose RAM,You continue building the PC. You end up choosing what to install next.
+16,38,38,-,-,Your CPU cooler isn't screwed on properly. It falls off and damages your motherboard.
+17,18,21,IO Shield,Motherboard,You then get your..
+18,19,20,Choose motherboard,Choose power supply,You place your IO Shield inside the case making sure it fits into place.
+19,20,25,Get power supply after screwing motherboard into place,You tighten the motherboard with screws,You carefully install the motherboard into the case
+20,22,23,Everything fits!,It doesn't fit the case,You install the power supply into the case
+21,38,38,-,-,You put the motherboard in the case and screw it in place. You realise you forgot to install the IO Shield and rage and damage your motherboard.
+22,25,19,Installed motherboard into case,Forgot to install motherboard into case,You start scratching your head. You find out you..
+23,38,38,-,-,After finding out that your PSU doesn't fit into the case you throw a tantrum and throw it out the window.
+24,25,25,Tighten the motherboard with screws,-,You carefully install the motherboard into the case. 
+25,26,27,Forgot to install RAM,Everything is in. Get GPU,You double check everything is on the motherboard before adding the GPU
+26,27,28,Hear RAM click into place. Get GPU,RAM didn't click into place,You install the RAM appropriately according to the motherboard manual
+27,30,29,Phew I nearly dropped it,Oh no I dropped it,You realise the GPU is quite heavy
+28,38,38,-,-,You don't hear the click. You find out the RAM sticks are broken
+29,30,30,-,-,Sweating you pick it up. Your luck is incredible. It isn't damaged.
+30,32,31,GPU fits perfectly,GPU is too big,You install the GPU securely onto the motherboard
+31,32,32,Oh no! Storage,-,You realise the GPU doesn't fit the case but you somehow find a way. It fits!
+32,34,33,Install storage,Choose not to put it in,You realise you have a box which contains your storage. You completely forgot about it
+33,34,34,Install storage,-,It's a shame. Your PC won't be able to boot if it has no where to store its files.
+34,36,35,Everything's plugged in,Something is wrong,You install the storage into your case. Everything is now complete. You start to plug in all the cables.
+35,36,41,Everything's plugged in,Decide not to do cable management,You realise that you haven't plugged in the power cable to the CPU socket. Everything is now plugged in correctly.
+36,37,41,Yes,No,You realise the cables are messy. You decide if you want to do cable management
+37,41,41,I'm finally finished!,-,You start organising the cables in your case to allow sufficient air flow and to keep it tidy
+38,39,39,-,-,You failed
+39,0,40,Yes,No,Start again?
+40,-1,-1,-,-,End Screen
+41,40,40,-,-,Finish
